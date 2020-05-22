@@ -1,0 +1,22 @@
+; Cis 11
+; Valentinno Cruz
+; Lab #3 B
+
+
+
+.ORIG x3000
+  AND R0, R0, #0	; CLEAR REGISTER R0
+  LD R0, NUM		; LOAD OUR NUMBER INTO R0
+  LD R2, ASCII		; LOAD THE ASCII OFFSET INTO R2
+  ADD R0, R0, R2	; ADD R0 + R2 AND STORE IN R0
+  OUT			; print out the values desc above ^
+HALT			; TRAP x25
+
+NUM	.FILL x02	; THE NUMBER WE WANTPRINTED
+ASCII	.FILL x30	; OUR ASCII OFFSET -(since we are using hex, ASCII x30 is = 0)
+.END			; TERMINATE PROGRAM
+
+
+
+
+

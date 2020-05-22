@@ -1,0 +1,19 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	ISZERO                  3021
+//	LOOP                    301E
+//	MULT1                   3002
+//	NOTZERO                 3029
+//	P                       303D
+//	POS                     3012
+//	POS2                    3018
+//	SAVEREG0                3033
+//	SAVEREG1                3034
+//	SAVEREG2                3035
+//	SAVEREG3                3036
+//	SAVEREG4                3037
+//	SAVEREG5                3038
+//	SAVEREG6                3039
+//	SAVEREG7                303A
+//	X                       303B
+//	Y                       303C

@@ -1,0 +1,12 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	COMPARE                 300F
+//	E                       304B
+//	EQ                      3021
+//	LINE1                   305D
+//	LINE2                   3068
+//	N                       3024
+//	NEG                     301B
+//	P                       3036
+//	POS                     301E
+//	RESET                   305C

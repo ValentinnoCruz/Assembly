@@ -1,0 +1,12 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	NEG                     3010
+//	P                       3016
+//	PMQ                     3019
+//	POS                     300A
+//	Q                       3017
+//	RES                     3018
+//	RNEG                    301C
+//	RPOS                    301A
+//	RZERO                   301B
+//	ZERO                    300D

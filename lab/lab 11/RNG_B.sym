@@ -1,0 +1,29 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	A                       3030
+//	BASE                    3036
+//	CONT                    3027
+//	DECODE                  305A
+//	DIV                     303D
+//	DLOOP                   3042
+//	EMPTY                   3059
+//	IS                      3056
+//	ISEMPTY                 3051
+//	LC                      3037
+//	LOOP                    3005
+//	M                       3031
+//	MLOOP                   3039
+//	MULT                    3038
+//	POP                     304E
+//	PUSH                    304B
+//	Q                       3032
+//	R                       3033
+//	SAVE1                   3049
+//	SAVE2                   304A
+//	SKIP                    3017
+//	SPACE                   302E
+//	STACK                   301A
+//	UNSTACK                 3021
+//	X                       302F
+//	XDIVQ                   3034
+//	XMODQ                   3035

@@ -1,0 +1,13 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	ABSX                    3024
+//	ABSY                    3025
+//	NEG                     301D
+//	POS                     3016
+//	X                       3021
+//	XMY                     3023
+//	Y                       3022
+//	Z                       3026
+//	ZERO                    301A
+//	ZPX                     300A
+//	ZPY                     300F

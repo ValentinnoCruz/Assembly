@@ -1,0 +1,34 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	ASKINP                  3008
+//	BYEBYE                  308C
+//	CLASS                   306C
+//	DONE                    30E3
+//	EIGHT                   3139
+//	FIVE                    311B
+//	FOUR                    3111
+//	INPERR                  30C0
+//	INPPROM                 30AB
+//	MYNAME                  3074
+//	NINE                    3143
+//	NWLINE                  3068
+//	ONE                     30F3
+//	PRNUM                   3081
+//	SEVEN                   312F
+//	SIX                     3125
+//	SPACE                   306A
+//	THREE                   3107
+//	TWO                     30FD
+//	XDONE                   3063
+//	XEIGHT                  3054
+//	XERR                    305E
+//	XFIVE                   3045
+//	XFOUR                   3040
+//	XNINE                   3059
+//	XONE                    3031
+//	XSEVEN                  304F
+//	XSIX                    304A
+//	XTHREE                  303B
+//	XTWO                    3036
+//	XZERO                   302C
+//	ZERO                    30E9

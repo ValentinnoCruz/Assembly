@@ -1,0 +1,36 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	ASKINP                  3002
+//	BYEBYE                  3076
+//	DONE                    30CE
+//	EIGHT                   3124
+//	ELEVEN                  3142
+//	FIVE                    3106
+//	FOUR                    30FC
+//	INPERR                  30AB
+//	INPPROM                 3095
+//	NINE                    312E
+//	NWLINE                  3074
+//	ONE                     30DE
+//	SEVEN                   311A
+//	SIX                     3110
+//	TEN                     3138
+//	THREE                   30F2
+//	TWELVE                  314C
+//	TWO                     30E8
+//	XDONE                   306F
+//	XEIGHT                  3051
+//	XELEVEN                 3060
+//	XERR                    306A
+//	XFIVE                   3042
+//	XFOUR                   303D
+//	XNINE                   3056
+//	XONE                    302E
+//	XSEVEN                  304C
+//	XSIX                    3047
+//	XTEN                    305B
+//	XTHREE                  3038
+//	XTWELVE                 3065
+//	XTWO                    3033
+//	XZERO                   3029
+//	ZERO                    30D4
